@@ -2,6 +2,8 @@
 
 A curated notebook for Machine Learning, AI, Deep Learning, and Computer Vision research and development. This repository supports activities such as model training, fine-tuning, and experimenting with state-of-the-art (SOTA) models on a weekly basis.
 
+- Following my Kaggle for more: [Kaggle damThanh](https://www.kaggle.com/damthanh)
+
 ## 🚀 Project Goals
 
 This project aims to:
