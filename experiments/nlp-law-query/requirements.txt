@@ -1,0 +1,13 @@
+underthesea==6.8.4
+numpy==2.0.2
+pandas==2.2.3
+python-docx==1.1.2
+scikit-learn==1.6.1
+pickle-mixin==1.0.2
+torch==2.7.0
+transformers==4.52.3
+tqdm
+fastapi==0.115.12
+pydantic-core==2.33.2
+uvicorn==0.34.2
+python-multipart
